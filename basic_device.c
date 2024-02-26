@@ -6,7 +6,7 @@
 #define IOM_MYDEVICE_MAJOR_NUM 0
 #define DEV_NAME "/dev/mydevice"
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("HGU");
+MODULE_AUTHOR("ISH");
 int mydevice_init(void);
 void mydevice_exit(void);
 module_init(mydevice_init);
