@@ -39,7 +39,7 @@ static void __exit my_platform_exit(void) {
 module_init(my_platform_init);
 module_exit(my_platform_exit);
 
-MODULE_LICENSE("MIT");
+MODULE_LICENSE("GPL");
 MODULE_AUTHOR("ethanish");
 MODULE_DESCRIPTION("A simple example platform driver");
 MODULE_VERSION("0.1");
