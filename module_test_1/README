@@ -1,0 +1,9 @@
+Load on the Kernel
+% insmod hello.ko
+Remove Module from Kernel
+% rmmod hello
+
+Check the printing message while loading & uploading
+
+/var/log/messages
+dmesg
