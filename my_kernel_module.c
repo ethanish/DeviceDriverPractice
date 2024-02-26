@@ -8,7 +8,7 @@
 #define EXAMPLE_MSG "Hello from the device driver!"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("ethanish");
+MODULE_AUTHOR("ISH");
 MODULE_DESCRIPTION("A simple example Linux module.");
 MODULE_VERSION("0.1");
 
