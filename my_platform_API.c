@@ -40,6 +40,6 @@ module_init(my_platform_init);
 module_exit(my_platform_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("ethanish");
+MODULE_AUTHOR("ISH");
 MODULE_DESCRIPTION("A simple example platform driver");
 MODULE_VERSION("0.1");
